@@ -22,18 +22,18 @@ Our goal is to build an app that finds recipes for users to cook based on the re
 - More to be added after brainstorming
 
 # Tools/Resources 
-- GitHub - https://youtu.be/Loav1kbA640
-- HTML Basics - https://www.w3schools.com/html/html_basic.asp
-- CSS Basics -  https://www.w3schools.com/css/css_intro.asp
+- GitHub  https://youtu.be/Loav1kbA640
+- HTML Basics  https://www.w3schools.com/html/html_basic.asp
+- CSS Basics   https://www.w3schools.com/css/css_intro.asp
 - Front-end Development
-  - JavaScript - https://www.w3schools.com/js/
-   - Vue framework
-   - Angular framework
-   - React framework
-  -Python 
-    -Flask 
+  - JavaScript  https://www.w3schools.com/js/
+    - Vue framework
+    - Angular framework
+    - React framework
+  - Python
+    - flask 
 - Back end Development
-  -Firebase - https://firebase.google.com/
+  - Firebase  https://firebase.google.com/
 - APIs
   - https://spoonacular.com/food-api
 - More to be added after brainstorming
